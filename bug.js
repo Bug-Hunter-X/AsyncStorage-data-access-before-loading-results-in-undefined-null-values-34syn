@@ -1,0 +1,1 @@
+This error occurs when using AsyncStorage in React Native and trying to access the data before it's fully loaded.  It usually manifests as undefined or null values when you expect a specific value from AsyncStorage.
